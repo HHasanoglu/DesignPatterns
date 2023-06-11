@@ -1,0 +1,10 @@
+D:\Hamid1\Hassanzada\Personal\Projects\DesignPatterns\DesignPatternSolution\DesignPatternConsole\bin\Debug\DesignPatternConsole.exe.config
+D:\Hamid1\Hassanzada\Personal\Projects\DesignPatterns\DesignPatternSolution\DesignPatternConsole\bin\Debug\DesignPatternConsole.exe
+D:\Hamid1\Hassanzada\Personal\Projects\DesignPatterns\DesignPatternSolution\DesignPatternConsole\bin\Debug\DesignPatternConsole.pdb
+D:\Hamid1\Hassanzada\Personal\Projects\DesignPatterns\DesignPatternSolution\DesignPatternConsole\obj\Debug\DesignPatternConsole.csproj.AssemblyReference.cache
+D:\Hamid1\Hassanzada\Personal\Projects\DesignPatterns\DesignPatternSolution\DesignPatternConsole\obj\Debug\DesignPatternConsole.csproj.CoreCompileInputs.cache
+D:\Hamid1\Hassanzada\Personal\Projects\DesignPatterns\DesignPatternSolution\DesignPatternConsole\obj\Debug\DesignPatternConsole.exe
+D:\Hamid1\Hassanzada\Personal\Projects\DesignPatterns\DesignPatternSolution\DesignPatternConsole\obj\Debug\DesignPatternConsole.pdb
+D:\Hamid1\Hassanzada\Personal\Projects\DesignPatterns\DesignPatternSolution\DesignPatternConsole\bin\Debug\DesignPatterns.dll
+D:\Hamid1\Hassanzada\Personal\Projects\DesignPatterns\DesignPatternSolution\DesignPatternConsole\bin\Debug\DesignPatterns.pdb
+D:\Hamid1\Hassanzada\Personal\Projects\DesignPatterns\DesignPatternSolution\DesignPatternConsole\obj\Debug\DesignPatternConsole.csproj.CopyComplete
